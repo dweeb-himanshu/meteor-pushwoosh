@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'timbroddin:pushwoosh',
+  name: 'himanshu:pushwoosh',
   summary: 'Send and receive push notifications via Pushwoosh',
   version: '1.0.0',
-  git: 'https://github.com/TimBroddin/meteor-pushwoosh.git'
+  git: 'https://github.com/err-himanshu/meteor-pushwoosh'
 });
 
 Package.onUse(function(api) {
